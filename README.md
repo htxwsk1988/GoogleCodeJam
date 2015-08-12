@@ -3,7 +3,7 @@ GoogleCodeJam practice in Java
 
 This repository contains solutions for 3 google code Jam challenges. The details of each challenge are listed below. 
 
-Problem A. Alien Language  
+Problem A. Alien Language   
 https://code.google.com/codejam/contest/90101/dashboard#s=p0
 
 Problem
@@ -25,7 +25,7 @@ For each test case, output
 Case #X: K
 where X is the test case number, starting from 1, and K indicates how many words in the alien language match the pattern.
 
-Problem C. T9 Spelling 
+Problem C. T9 Spelling  
 https://code.google.com/codejam/contest/351101/dashboard#s=p2
 
 Problem
@@ -45,7 +45,7 @@ Output
 For each test case, output one line containing "Case #x: " followed by the message translated into the sequence of keypresses.
 
 
-Problem A. Rope Intranet
+Problem A. Rope Intranet 
 https://code.google.com/codejam/contest/619102/dashboard#s=p0
 
 Problem
